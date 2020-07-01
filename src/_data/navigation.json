@@ -6,9 +6,24 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
-      "external": true
+      "text": "About",
+      "url": "/about",
+      "external": false
+    },
+    {
+      "text": "Shows",
+      "url": "/shows",
+      "external": false
+    },
+    {
+      "text": "Consulting",
+      "url": "/media-strategy-consulting",
+      "external": false
+    },
+    {
+      "text": "Events",
+      "url": "/events",
+      "external": false
     },
     {
       "text": "Example Contact Page",
